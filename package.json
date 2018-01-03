@@ -5,6 +5,7 @@
     "querystring": "^0.2.0"
   },
   "devDependencies": {
+    "chai": "^4.1.2",
     "mocha": "^4.1.0"
   }
 }
