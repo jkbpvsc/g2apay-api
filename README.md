@@ -1,8 +1,8 @@
-#G2A-PAY API Wrapper
+# G2A-PAY API Wrapper
 
 This wrapper is a work still in progress.
 
-##Constructor(apiSecret, apiHash, returnUrl, cancelUrl, currency, cartType, sandbox)
+## Constructor(apiSecret, apiHash, returnUrl, cancelUrl, currency, cartType, sandbox)
 - `apiSecret`- Store Api Secret
 - `apiHash` - Store API Hash
 - `returnUrl`- URL to redirect the payment is successful
@@ -12,4 +12,5 @@ This wrapper is a work still in progress.
 - `sandbox` - Optional. Set this to `true` to connect the client to the G2A Pay test servers for
  testing your integration 
  
-###Methods
+### Methods
+...
