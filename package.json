@@ -3,5 +3,8 @@
     "crypto": "^1.0.1",
     "https": "^1.0.0",
     "querystring": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
   }
 }
