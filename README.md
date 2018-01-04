@@ -13,4 +13,7 @@ This wrapper is a work still in progress.
  testing your integration 
  
 ### Methods
-...
+##### createSubscriptionOrder(orderId, amount, items, subscription, options)
+- `orderId` - Order ID
+- `amount` - Order Payment Amount
+- `items` - Items array
