@@ -1,6 +1,6 @@
-# G2A-PAY API Wrapper
+# G2A-PAY API client
 
-This wrapper is a work still in progress.
+This client is a work still in progress.
 
 ## Constructor(apiSecret, apiHash, returnUrl, cancelUrl, currency, cartType, sandbox)
 - `apiSecret`- Store Api Secret
